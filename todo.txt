@@ -1,0 +1,12 @@
+- en passasnte
+- turn count
+- castling
+- improve input handling
+- display possible moves
+- check for obstacles
+- check for check
+- check for checkmate
+- check for pat
+- save previous moves
+- save game in file
+- replay game from saved file
